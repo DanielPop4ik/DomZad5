@@ -1,0 +1,15 @@
+/Users/popov4ik/Desktop/GB/DomZad_5/bin/Debug/net6.0/DomZad_5
+/Users/popov4ik/Desktop/GB/DomZad_5/bin/Debug/net6.0/DomZad_5.deps.json
+/Users/popov4ik/Desktop/GB/DomZad_5/bin/Debug/net6.0/DomZad_5.runtimeconfig.json
+/Users/popov4ik/Desktop/GB/DomZad_5/bin/Debug/net6.0/DomZad_5.dll
+/Users/popov4ik/Desktop/GB/DomZad_5/bin/Debug/net6.0/DomZad_5.pdb
+/Users/popov4ik/Desktop/GB/DomZad_5/obj/Debug/net6.0/DomZad_5.csproj.AssemblyReference.cache
+/Users/popov4ik/Desktop/GB/DomZad_5/obj/Debug/net6.0/DomZad_5.GeneratedMSBuildEditorConfig.editorconfig
+/Users/popov4ik/Desktop/GB/DomZad_5/obj/Debug/net6.0/DomZad_5.AssemblyInfoInputs.cache
+/Users/popov4ik/Desktop/GB/DomZad_5/obj/Debug/net6.0/DomZad_5.AssemblyInfo.cs
+/Users/popov4ik/Desktop/GB/DomZad_5/obj/Debug/net6.0/DomZad_5.csproj.CoreCompileInputs.cache
+/Users/popov4ik/Desktop/GB/DomZad_5/obj/Debug/net6.0/DomZad_5.dll
+/Users/popov4ik/Desktop/GB/DomZad_5/obj/Debug/net6.0/refint/DomZad_5.dll
+/Users/popov4ik/Desktop/GB/DomZad_5/obj/Debug/net6.0/DomZad_5.pdb
+/Users/popov4ik/Desktop/GB/DomZad_5/obj/Debug/net6.0/DomZad_5.genruntimeconfig.cache
+/Users/popov4ik/Desktop/GB/DomZad_5/obj/Debug/net6.0/ref/DomZad_5.dll
